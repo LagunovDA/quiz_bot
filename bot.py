@@ -1,6 +1,6 @@
 import asyncio
 import logging
-!pip install aiogram
+
 from aiogram import Bot
 from aiogram.filters.command import Command
 from handlers import cmd_quiz, cmd_start, dp
